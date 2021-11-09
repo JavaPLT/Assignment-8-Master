@@ -1,10 +1,9 @@
-# Assignment-7-Master
-Assignment 7 in Comp 311 Fall 2021
+# Assignment-8-Master
+Assignment 8 in Comp 311 Fall 2021
 
-100 points
+200 points
 
-Due: 11:59 pm, Monday, Nov 8
+Due: 11:59 pm, Monday, Nov 15
 
-This assignment focuses on functional programming in Java using the visitor pattern, repeating some of the same programming problems that 
-you hvae already solved in Racket and Java (without the visitor pattern).
-The details of the assignment are given in the PDF file [`HW07.pdf`](https://github.com/JavaPLT/Assignment-7-Master/blob/main/HW07.pdf).
+This assignment is a reprise of Assignment 5 in Racket.  It demonstrates how functional programs can be written (with a bit of extra effort) in Java rather than a genuine functional language like Racket (Scheme).
+The details of the assignment are given in the PDF file [`HW08.pdf`](https://github.com/JavaPLT/Assignment-8-Master/blob/main/HW08.pdf).
